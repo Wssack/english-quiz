@@ -1,5 +1,5 @@
 // 1단계에서 만든 새로운 Google Sheets CSV 내보내기 링크를 여기에 붙여넣으세요.
-const GOOGLE_SHEET_URL = 'https://docs.google.com/spreadsheets/d/SPREADSHEET_ID/export?format=csv&gid=0';
+const GOOGLE_SHEET_URL = 'https://docs.google.com/spreadsheets/d/1pm_TBqShdzgOCXEAg2a0gdNeQn3VaIkLwPSVuSKVKt8/export?format=csv&gid=0';
 
 // HTML 요소 가져오기 (이전과 동일)
 const questionArea = document.getElementById('question-area');
